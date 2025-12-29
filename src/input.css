@@ -1,1 +1,8 @@
 @import "tailwindcss";
+.bg1
+{
+    background-image: url("./fhoto/Path\ 194.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
